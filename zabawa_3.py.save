@@ -1,0 +1,14 @@
+dzien = 'sroda'
+dzisiaj = 'sroda'
+if dzien == dzisiaj:
+	print('Tak dzisia = [
+	'Poniedzialek',
+	'Wtorek',
+	'Środa',
+	'Czwartek',
+	'Piątek',
+]
+weekend = [
+	'Sobota',
+	'Niedziela',
+]

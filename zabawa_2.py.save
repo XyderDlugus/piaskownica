@@ -1,0 +1,4 @@
+zmienna1 = 1
+zmienna2 = "1"
+
+print("Zmienna1:", 
